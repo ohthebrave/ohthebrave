@@ -3,7 +3,7 @@
 - 👨🏿‍💻 I’m currently learning Django
 - 🫱🏿‍🫲🏾 I’m looking to collaborate on open-source projects and Learn more about problem-solving.
 
-### Languages,Frameworks and Databases:
+
 
  
 
