@@ -1,5 +1,5 @@
 - 👋 Hi, I’m George Nyanjui 
-- 🧲 I’m a self-taught && recent Full-stack Graduate Software Engineer from Moringa School 
+- 🧲 Full-stack Software Engineer  
 - 👨🏿‍💻 I’m currently learning Django
 - 🫱🏿‍🫲🏾 I’m looking to collaborate on open-source projects and Learn more about problem-solving.
 
