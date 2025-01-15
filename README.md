@@ -1,6 +1,6 @@
 - 👋 Hi, I’m George Nyanjui 
 - 🧲 Full-stack Software Engineer  
-- 👨🏿‍💻 I’m currently learning Rust and Golang
+- 👨🏿‍💻 I’m currently learning Java and Golang
 - 🫱🏿‍🫲🏾 I’m looking to collaborate on open-source projects and Learn more about problem-solving.
 
 
